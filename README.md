@@ -22,7 +22,7 @@ You can find my **CV** below.
 # Nicco Kunzmann's CV
 
 - Phone: +44 7726 466688
-- Email: [niccokunzmann@posteo.net](mailto:niccokunzmann@posteo.net)
+- Email: niccokunzmann ät posteo.net
 - Location: Cardiff, Wales, UK
 - Mastodon: [@niccokunzmann@toot.wales](https://toot.wales/@niccokunzmann)
 - GitHub: [niccokunzmann](https://github.com/niccokunzmann)
