@@ -45,14 +45,14 @@ Creates high-quality documentation and code with TDD & RFCs
 - Platforms: Linux, Windows, macOS, Android, Raspberry Pi, Arduino, MicroPython, OpenWRT, more
 - Documentation: Sphinx, MkDocs, ReStructuredText, Hugo, TinaCMS, Jekyll, Weblate/i18n, more
 - Spoken Languages: German (Native), English (Professional), Russian (TRKI 1)
-# Some Hightlights
+# Some Highlights
 
 - 2024 [Open UK Awards Open Source Software Nominee](https://hachyderm.io/@openuk/113345770817730095) for Calendar Software
 - 2024 NLNet funding for FOSS work on the [Open Web Calendar Stack](https://nlnet.nl/project/OpenWebCalendar/)
 - 1000 mentored commits made by children on [the Labyrinth game](https://github.com/fossasia/labyrinth) within 3 months during Google Code-In
 # Leadership Experience
 
-- Communication: Non-Violent Communication (9 years), Conflict Engagement/Resolution Team, Facilitate Men's groups, Can listen, Commmunicate Effectively with Compassion, Awareness of Group Dynamics, Seeking to Maintain a Space of Equality and Mutual Understanding, Speaking and Giving Workshops at Conferences
+- Communication: Non-Violent Communication (9 years), Conflict Engagement/Resolution Team, Facilitate Men's groups, Can listen, Communicate Effectively with Compassion, Awareness of Group Dynamics, Seeking to Maintain a Space of Equality and Mutual Understanding, Speaking and Giving Workshops at Conferences
 - Team: Living in Community, Organising Workdays, Driving Vision and Goals, Leading Meetings
 # Open-Source Projects
 
